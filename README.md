@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-mansharamani&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-mansharamani" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/pravesh295" target="blank"><img src="https://img.shields.io/twitter/follow/pravesh295?logo=twitter&style=for-the-badge" alt="pravesh295" /></a> </p>
-
 - 🔭 I’m currently working on [Tic Tac Toe](https://github.com/Pravesh-mansharamani/Tic-Tac-Toe-AI)
 
 - 🌱 I’m currently learning **React Native**
@@ -15,9 +12,10 @@
 
 - 📫 How to reach me **praveshramani295@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing](https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/pravesh295" target="blank"><img src="https://img.shields.io/twitter/follow/pravesh295?logo=twitter&style=for-the-badge" alt="pravesh295" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/pravesh295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravesh295" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pravesh-mansharamani-924984198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravesh-mansharamani-924984198" height="30" width="40" /></a>
