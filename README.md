@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Tic Tac Toe](https://github.com/Pravesh-mansharamani/Tic-Tac-Toe-AI)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python**
 
