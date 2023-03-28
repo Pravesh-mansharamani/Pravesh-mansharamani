@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-mansharamani&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-mansharamani" /> </p>
 
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/Pravesh-mansharamani/Tic-Tac-Toe-AI)
+- 🔭 I’m currently working on [Text Spam Classifier](https://github.com/Pravesh-mansharamani/SMS-spam-classifier-)
 
 - 🌱 I’m currently learning **JavaScript**
 
