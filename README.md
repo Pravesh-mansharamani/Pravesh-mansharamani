@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Text Spam Classifier](https://github.com/Pravesh-mansharamani/SMS-spam-classifier-)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **Python**
 
