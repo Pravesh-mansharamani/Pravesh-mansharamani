@@ -32,11 +32,11 @@
 <h2 align="center">👨🏻‍💻  About Me</h2>
 
 ###
-
 <p align="left">I'm Pravesh from Waterloo 🇨🇦<br>
-<br>- 🔭 I’m working as Remote Software Developer at a fintech startup.
-<br>- 📚 I'm currently learning MERN Stack.<br>- 📄 Checkout my experience [Resume](https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing) <br>
+<br>- 🔭 I’m working as a Remote Software Developer at a fintech startup.
+<br>- 📚 I'm currently learning the MERN Stack.<br>- 📄 Checkout my experience <a href="https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing">Resume</a> <br>
 </p>
+
 
 ###
 
