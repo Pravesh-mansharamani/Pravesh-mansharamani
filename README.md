@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Pravesh from Waterloo 🇨🇦<br><br>- 🔭 I’m working as Remote Software Developer at a fintech startup.<br>- 📚 I'm currently learning MERN Stack.<br>- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing)<br></p>
+<p align="left">I'm Pravesh from Waterloo 🇨🇦<br><br>- 🔭 I’m working as Remote Software Developer at a fintech startup.<br>- 📚 I'm currently learning MERN Stack.<br>- 📄 Know about my experiences [Resume((https://drive.google.com/file/d/1qlTwMgoSY2zQ6C7MaoUJVEm8U7GpuT3P/view?usp=sharing)]<br></p>
 
 ###
 
