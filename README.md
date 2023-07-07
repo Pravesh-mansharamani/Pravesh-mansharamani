@@ -32,7 +32,7 @@
 <h2 align="center">👨🏻‍💻  About Me</h2>
 
 ###
-<p align="left">I'm Pravesh from Waterloo 🇨🇦<br>
+<p align="left">I'm Pravesh from University of Waterloo 🇨🇦<br>
 <br>- 🔭 I’m working as a Remote Software Developer at a fintech startup.
 <br>- 📚 I'm currently learning the MERN Stack.<br>- 📄 Checkout my experience <a href="https://drive.google.com/file/d/1dbO40MfxpGQgxzmCKSkF4YBOiBVYlFy6/view?usp=sharing">Resume</a> <br>
 </p>
