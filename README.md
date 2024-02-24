@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Sophomore at the University of Waterloo.<br>💻 Passionate about open source and building in public to transform complex ideas into reality.<br>🃏 Poker enthusiast blending strategy with curiosity.<br> 📄 Check out my experience [here](https://drive.google.com/file/d/19FkaDqmTHLjO6jttbwbgnBYjzMh9vGml/view?usp=sharing).
+🚀 Sophomore at the University of Waterloo.<br>💻 Passionate about open source and building in public to transform complex ideas into reality.<br>🃏 Poker enthusiast blending strategy with curiosity.<br>
 
 
 ## 🌐 Socials:
